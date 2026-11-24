@@ -2,9 +2,8 @@
 
 A HomEdge look for the Claude desktop and mobile apps. Light mode uses warm cream
 surfaces with terracotta highlights. Dark mode is a lamp-lit evening version on
-warm brown-charcoal. A faint row of three homes sits in the top-right corner of
-the background, and their windows glow slowly (they hold still when reduced
-motion is on).
+warm brown-charcoal. There is no background picture, so nothing sits behind the
+text.
 
 The terminal and code editors don't draw themes; permission prompts and code
 blocks keep the app's own look.

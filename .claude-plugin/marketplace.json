@@ -2,6 +2,6 @@
   "name": "homedge",
   "owner": { "name": "HomEdge" },
   "plugins": [
-    { "name": "homedge-theme", "source": "./homedge-theme", "description": "HomEdge look: warm cream and terracotta by day, lamp-lit evening by night, with a quiet row of homes in the corner." }
+    { "name": "homedge-theme", "source": "./homedge-theme", "description": "HomEdge look: warm cream and terracotta by day, lamp-lit evening by night." }
   ]
 }
